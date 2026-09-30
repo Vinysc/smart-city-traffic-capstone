@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/woons/Documents/smart-city-traffic-capstone/part
+  3_machine_learning/mlruns/792319060527759682/models/m-12a005f543aa4fec95e9caf8129d3cc8/artifacts
+creation_timestamp: 1790760839689
+experiment_id: '792319060527759682'
+last_updated_timestamp: 1790760850185
+model_id: m-12a005f543aa4fec95e9caf8129d3cc8
+model_type: null
+name: random_forest_traffic_model
+source_run_id: b5a53f30e96c40519002db6ab21e8c79
+status: 2
+status_message: null

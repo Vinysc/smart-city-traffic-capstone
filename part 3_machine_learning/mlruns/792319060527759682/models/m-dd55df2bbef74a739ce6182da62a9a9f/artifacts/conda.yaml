@@ -1,0 +1,31 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.13.9
+- pip<=25.3
+- pip:
+  - mlflow==3.15.1
+  - bottleneck==1.4.2
+  - cloudpickle==3.1.1
+  - dask==2025.11.0
+  - dill==0.4.0
+  - lz4==4.4.5
+  - numpy==2.3.5
+  - numpydoc==1.9.0
+  - opt-einsum==3.4.0
+  - packaging==25.0
+  - pandas==2.3.3
+  - psutil==7.0.0
+  - pydot==4.0.1
+  - pytest==8.4.2
+  - pyyaml==6.0.3
+  - rich==14.2.0
+  - scikit-learn==1.9.1
+  - scipy==1.16.3
+  - skops==0.14.0
+  - tblib==3.1.0
+  - torch==2.14.0
+  - tqdm==4.67.1
+  - typing-extensions==4.15.0
+  - xarray==2025.10.1
+name: mlflow-env

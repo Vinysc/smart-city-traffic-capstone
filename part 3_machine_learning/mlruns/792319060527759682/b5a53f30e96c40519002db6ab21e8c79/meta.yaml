@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/woons/Documents/smart-city-traffic-capstone/part 3_machine_learning/mlruns/792319060527759682/b5a53f30e96c40519002db6ab21e8c79/artifacts
+end_time: 1790760850212
+entry_point_name: ''
+experiment_id: '792319060527759682'
+lifecycle_stage: active
+run_id: b5a53f30e96c40519002db6ab21e8c79
+run_name: Random_Forest_Regressor_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790760832839
+status: 3
+tags: []
+user_id: woons
